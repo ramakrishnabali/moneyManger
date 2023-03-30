@@ -1,0 +1,50 @@
+/* Write your CSS here */
+/* Write your CSS here */
+.moneyContainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 90%;
+  margin-top: 20px;
+  flex-wrap: wrap;
+}
+
+.balanceContainer {
+  background-color: #ecfccb;
+  border: 1px solid #7e858e;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 13px;
+  width: 250px;
+  margin: 10px;
+  margin-left: 0px;
+}
+
+.balanceImage {
+  width: 60px;
+  height: 60px;
+  margin-right: 17px;
+}
+.yourBalance {
+  color: #7e858e;
+  font-weight: 600;
+  font-size: 18px;
+  font-family: 'Roboto';
+}
+
+.balance {
+  color: #7e858e;
+  font-weight: 600;
+  font-size: 18px;
+  font-family: 'Roboto';
+}
+
+.incomeContainer {
+  background-color: #cffafe;
+}
+
+.expensesContainer {
+  background-color: #ede9fe;
+}
+
